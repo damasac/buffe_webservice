@@ -7,8 +7,8 @@
  */
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=61.19.254.15;dbname=cascapcloud',
-    'username' => 'cascapcloud',
-    'password' => 'cascapcloud!@#$%',
+    'dsn' => 'mysql:host=61.19.xxx.xxx;dbname=xxxx',
+    'username' => 'xxx',
+    'password' => 'xx',
     'charset' => 'utf8',
 ];
